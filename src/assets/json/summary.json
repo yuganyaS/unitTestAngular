@@ -1,0 +1,11 @@
+{
+    "status":"SUCCESS",
+    "data":{
+        "applicationName":"project1",
+        "applicationCount":2,
+        "totalTestCases":3,
+        "passed":3,
+        "failed":4,
+        "skipped":2
+    }
+}
